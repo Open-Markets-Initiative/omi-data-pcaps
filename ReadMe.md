@@ -1,7 +1,5 @@
 # Omi Sample Data
 
-[![Wireshark](https://github.com/Open-Markets-Initiative/Directory/blob/main/About/Images/Wireshark.png)](https://www.wireshark.org)
-
 Omi sample data provides packet captures for testing and verifying binary exchange protocol dissectors and parsers.
 
 Packet captures have been collected from publicly available sources.  If any information is in violation of copyright please let us know and we will remove it.
